@@ -8,3 +8,21 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 <p>Luca Monteiro de Victor</p>
 <p>Lucas Barcelar de Carvalho</p>
 <p>Tomás Brandão Rodrigues</p>
+
+## 🔨 Processo
+<details>
+<summary>📧 Entrega 1</summary>
+  
+### 📄 Jira Board
+
+<br>
+  
+<img width="100%" src="https://github.com/gacneto/MeeTech/blob/main/Media_files/Screenshot%202024-08-27%20at%2013.55.32.png">
+
+### 📄 Jira Backlog
+
+<br>
+
+<img width="100%" scr="https://github.com/gacneto/MeeTech/blob/main/Media_files/Screenshot%202024-08-27%20at%2013.55.46.png">
+
+</details>
