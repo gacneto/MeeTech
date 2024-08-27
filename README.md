@@ -8,6 +8,7 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 <p>Luca Monteiro de Victor</p>
 <p>Lucas Barcelar de Carvalho</p>
 <p>Tomás Brandão Rodrigues</p>
+<p>Arthur Meirinho</p>
 
 ## 🔨 Processo
 <details>
