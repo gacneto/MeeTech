@@ -32,4 +32,14 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 ### 📄 Criação de Protótipos Low-Fi (figma)
 
 <img width="100%" src="Media_files/Captura de tela 2024-08-27 164044.png">
+
+<br>
+
+### 🎥 Screencast do Protótipo
+
+<p style="text-align: center; text-decoration: none;">
+  <a href="https://github.com/gacneto/MeeTech/blob/main/Media_files/Screencast%20MeeTech.mp4" style="text-decoration: none;">
+    <span>🔗 Screencast do protótipo Lo-Fi (1)</span>
+  </a>
+</p>
 </details>
