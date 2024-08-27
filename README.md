@@ -26,4 +26,10 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 
 <img width="100%" src="https://github.com/gacneto/MeeTech/blob/main/Media_files/Jira_Backlog.png">
 
+<br>
+
+
+### 📄 Criação de Protótipos Low-Fi (figma)
+
+
 </details>
