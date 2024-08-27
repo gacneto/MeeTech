@@ -31,5 +31,5 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 
 ### 📄 Criação de Protótipos Low-Fi (figma)
 
-
+<img width="100%" src="Media_files/Captura de tela 2024-08-27 164044.png">
 </details>
