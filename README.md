@@ -38,7 +38,7 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 ### 🎥 Screencast do Protótipo
 
 <p style="text-align: center; text-decoration: none;">
-  <a href="https://github.com/gacneto/MeeTech/blob/main/Media_files/Screencast%20MeeTech.mp4" style="text-decoration: none;">
+  <a href="https://drive.google.com/file/d/1yTHLmsJt5vokO__GsMrnschmdhDLHygL/view?usp=sharing" style="text-decoration: none;">
     <span>🔗 Screencast do protótipo Lo-Fi (1)</span>
   </a>
 </p>
