@@ -1,0 +1,234 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    z-index: 1000;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 10px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+header nav ul li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 100px;
+    padding-left: 20px;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 50px;
+    background-color: black;
+}
+
+.profile-info {
+    text-align: left;
+}
+
+.profile-info h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.stats {
+    display: flex;
+    gap: 30px;
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.actions {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    background-color: #333;
+    margin: 20px 0;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px;
+    width: 80%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    font-size: 1.5em;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #333;
+}
+
+td {
+    padding: 10px;
+}
+
+td:not(:last-child) {
+    border-right: 2px solid #333;
+}
+
+td button {
+    margin: 5px;
+}
+
+td img {
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+.section {
+    padding: 20px;
+    text-align: center;
+}
+
+.projects, .team, .social-media {
+    width: 30%;
+}
+
+.projects h2, .team h2, .social-media h2 {
+    margin-bottom: 10px;
+}
+
+.posts-grid, .team-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.post, .team-member {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.icons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    width: 100%;
+    max-width: 500px;
+    margin-top: 10px;
+}
+
+.icons a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.icons img {
+    width: 50px;
+    height: 50px;
+    transition: transform 0.3s;
+}
+
+.icons img:hover {
+    transform: scale(1.1);
+}
+
+.projects::after, .team::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: #333;
+}
+
+.projects::after {
+    right: -15px;
+}
+
+.team::after {
+    right: -15px;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+    background-color: #f4f4f4;
+}
+
+.settings {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #999;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.social-media h2 {
+    margin-bottom: 20px;
+}
