@@ -6,10 +6,10 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 
 ## 🎯 Nossa Equipe
 <p>Alexandre José Bandeira Filho</p>
+<p>Arthur Meirinho</p>
 <p>Luca Monteiro de Victor</p>
 <p>Lucas Barcelar de Carvalho</p>
 <p>Tomás Brandão Rodrigues</p>
-<p>Arthur Meirinho</p>
 
 ## 🔨 Processo
 <details>
