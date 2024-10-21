@@ -43,6 +43,21 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
   </a>
 </p>
 </details>
+
+<details>
+<summary>📧 Entrega 2</summary>
+
+<br>
+
+### 📄 Screencast Login e Cadastro
+
+<p style="text-align: center; text-decoration: none;">
+  <a href="https://drive.google.com/file/d/1yTHLmsJt5vokO__GsMrnschmdhDLHygL/view?usp=sharing" style="text-decoration: none;">
+    <span>🔗 Screencast do protótipo Lo-Fi (1)</span>
+  </a>
+</p>
+
+</details>
 <details>
 <summary>📧 Programação em Par</summary>
 
@@ -58,3 +73,4 @@ Além disso, a divisão de tarefas e o apoio mútuo dentro da equipe facilitaram
 
 De forma geral, o uso da programação em par durante este projeto foi uma experiência positiva para o grupo. Nos ajudou a aprender com os diferentes pontos de vista de cada membro e a trabalhar de maneira mais organizada e eficiente. Essa prática nos permitiu entregar um projeto mais sólido e bem estruturado, além de aprimorar nossas habilidades de programação e trabalho em equipe.
 </p>
+</details>
