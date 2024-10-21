@@ -54,7 +54,15 @@ O "MeeTech" é uma plataforma web projetada para conectar pequenas e médias emp
 
 <p style="text-align: center; text-decoration: none;">
   <a href="https://drive.google.com/file/d/1yTHLmsJt5vokO__GsMrnschmdhDLHygL/view?usp=sharing" style="text-decoration: none;">
-    <span>🔗 Screencast do protótipo Lo-Fi (1)</span>
+    <span>🔗 Screencast Login e Cadastro</span>
+  </a>
+</p>
+
+### 📄 Screencast Timeline
+
+<p style="text-align: center; text-decoration: none;">
+  <a href="[https://drive.google.com/file/d/1yTHLmsJt5vokO__GsMrnschmdhDLHygL/view?usp=sharing](https://drive.google.com/file/d/1tq5L2Bg0xGxXiF6l_QRSVjoctkifTrVE/view?usp=sharing)" style="text-decoration: none;">
+    <span>🔗 Screencast Timeline</span>
   </a>
 </p>
 
