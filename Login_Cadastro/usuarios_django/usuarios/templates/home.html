@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Nosso Site</h1>
+    </header>
+    <div class="container home">
+        <h2>Home Page</h2>
+        <p>Bem-vindo à página inicial. Navegue pelos links abaixo para acessar as outras páginas.</p>
+        <a href="{% url 'login' %}">Login</a> | 
+        <a href="{% url 'cadastro' %}">Cadastro</a>
+    </div>
+</body>
+</html>
